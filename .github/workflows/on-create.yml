@@ -4,7 +4,7 @@ on:
   # Trigger when repository is created from template (Actions enabled automatically!)
   create:
   # Trigger when repository is forked (user must enable Actions manually)
-  fork:
+  # fork:
   # Also allow manual trigger
   workflow_dispatch:
 
